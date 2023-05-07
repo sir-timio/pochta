@@ -10,4 +10,4 @@ requirements (что вне бейзлайна):
 
 dataprep
 
-![alt text](https://github.com/sir-timio/sir-timio/blob/main/diplomas/cups%26hacks/certificate.pdf)
+[diploma](https://github.com/sir-timio/sir-timio/blob/main/diplomas/cups%26hacks/certificate.pdf)
